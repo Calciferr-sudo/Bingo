@@ -38,7 +38,7 @@ Customizable Cards: Allow users to generate cards with different themes or sizes
 
 Sound Effects: Add sound effects for marking numbers and winning a game.
 
-<h5>If you find any bugs please report it to <a href="shettyvikas608@gmail.com">shettyvikas608@gmail.com</a></h5>
+<h5>If you find any bugs please report it to <a href="[shettyvikas608@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfqbkbLRfWmRCLTZkMjdvBFZdSVDTmlXNXPsWWzxDzwqxTQCzwkkhQvwbLvjnRrZfNqLKg)">shettyvikas608@gmail.com</a></h5>
 
 
 <h5>----------------------------------------------------------------</h5>
